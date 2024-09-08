@@ -7,3 +7,4 @@ ikbal resolusi
   > proposal iscp
   > alur proses bisnis
   > membuat rancangan database
+  > membuat rancangan antarmuka
