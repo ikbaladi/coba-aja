@@ -1,7 +1,9 @@
 ikbal resolusi
-- pelajari laravel
 - membuat beberapa sistem informasi
 - membuat potofolio
+  > github
+  > website
 - membuat projek iscp
   > proposal iscp
   > alur proses bisnis
+  > membuat rancangan database
