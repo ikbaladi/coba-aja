@@ -3,3 +3,5 @@ ikbal resolusi
 - membuat beberapa sistem informasi
 - membuat potofolio
 - membuat projek iscp
+  > proposal iscp
+  > alur proses bisnis
