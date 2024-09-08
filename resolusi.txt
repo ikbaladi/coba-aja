@@ -5,3 +5,5 @@ ikbal resolusi
 - membuat projek iscp
   > proposal iscp
   > alur proses bisnis
+  > membuat rancangan database
+  > membuat rancangan antarmuka
