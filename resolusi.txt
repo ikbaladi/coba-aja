@@ -1,0 +1,4 @@
+ikbal resolusi
+- pelajari laravel
+- membuat beberapa sistem informasi
+- membuat potofolio
